@@ -1,0 +1,13 @@
+trl 
+gradio
+tts
+accelerate 
+peft 
+bitsandbytes 
+transformers 
+torch
+logging
+os
+tqdm
+scipy
+datasets==2.16.0
